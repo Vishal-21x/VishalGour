@@ -55,41 +55,20 @@ Welcome to my GitHub! I'm a passionate AI Engineer & Data Scientist with a diver
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
-
-</div>
-
----
-
 ## 📫 Get in Touch
 
 Feel free to reach out or explore my work:
 
 * 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 * 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-* 🐦 **Twitter**: [@your-handle](https://twitter.com/your-handle)
-* 🔗 **Portfolio**: [your-website.com](https://your-website.com)
-
 ---
 
 ## 💡 What I'm Currently Working On
 
-- 🔄 [Current project or learning goal]
-- 📚 [What you're learning/exploring]
-- 🎯 [Next big idea or goal]
-
+- 🔄 **Implementing Proximal Operator in Non-Convex, Non-Linear environment** | Convex Analysis in ML/AI | Master Thesis.
+- 📚 Exploring **Snowflakes, Databricks, KNIME**, capabilties for ML/AI based industrial solutions.
+- 🎯 I bridge the gap between theoretical ML/AI foundations from my university studies and practical, business-driven solutions that create measurable impact.
 ---
 
-<div align="center">
+⭐ **If you find my work interesting, feel free to connect!!**
 
-⭐ **If you find my work interesting, feel free to star my repositories!**
-
-Made with ❤️ by [Your Name]
-
-</div>

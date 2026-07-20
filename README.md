@@ -54,6 +54,12 @@ Welcome to my GitHub! I'm a passionate AI Engineer & Data Scientist with a diver
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
+## 💡 What I'm Currently Working On
+
+- 🔄 **Implementing Proximal Operator in Non-Convex, Non-Linear environment** | Convex Analysis in ML/AI | Master Thesis.
+- 📚 Exploring **Snowflakes, Databricks, KNIME**, capabilties for ML/AI based industrial solutions.
+- 🎯 I bridge the gap between theoretical ML/AI foundations from my university studies and practical, business-driven solutions that create measurable impact.
+---
 
 ## 📫 Get in Touch
 
@@ -61,13 +67,6 @@ Feel free to reach out or explore my work:
 
 * 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 * 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
----
-
-## 💡 What I'm Currently Working On
-
-- 🔄 **Implementing Proximal Operator in Non-Convex, Non-Linear environment** | Convex Analysis in ML/AI | Master Thesis.
-- 📚 Exploring **Snowflakes, Databricks, KNIME**, capabilties for ML/AI based industrial solutions.
-- 🎯 I bridge the gap between theoretical ML/AI foundations from my university studies and practical, business-driven solutions that create measurable impact.
 ---
 
 ⭐ **If you find my work interesting, feel free to connect!!**

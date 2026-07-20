@@ -1,21 +1,21 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Vishal Gour!
 
-Welcome to my GitHub! I'm a passionate [Your Title] with a diverse background in:
+Welcome to my GitHub! I'm a passionate AI Engineer & Data Scientist with a diverse background in:
 
-🚀 [Skill Area 1]  
-🎯 [Skill Area 2]  
-🔌 [Skill Area 3]  
-📊 [Skill Area 4]  
+🚀 Machine Learning & Artificial Intelligence.
+🎯 Data Analyst.  
+🔌 Embedded Software Developer  
+📊 Senior System Engineer  
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 [Your Education Background]
-* 💼 [Years of Experience] in [Your Field]
+* 🎓 Master's in **Data Science (ML/AI Major)** from University of **Erlangen-Nuremberg, Germany**
+* 💼 **3+ years** experience in **Data Engineering & AI Development**
 * 🏭 [Specialization/Industry Focus]
-* 🤖 [Key Interests - e.g., LLMs, AI, Cloud, etc.]
-* 📈 [Additional Expertise]
+* 🤖 Passionate about **LLMs, RAG, NLP, and AI-powered automation**
+* 📈 Experienced with  **MLOps, LLMOps, Software development, System Administration**.
 
 ---
 

@@ -25,8 +25,8 @@ Welcome to my GitHub! I'm a passionate AI Engineer & Data Scientist with a diver
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[LLM Fine-Tuning for Customer Support Automation](https://github.com/Vishal-21x/GenerativeAI-with-snowflake)** | Automated multi-LLM evaluation, fine-tuning pipeline, and inference deployment for telecom support ticket responses. |
-| **[Project Name 2](link)** | Brief description of what this project does | JavaScript, React |
+| **[LLM Fine-Tuning for Customer Support Automation](https://github.com/Vishal-21x/GenerativeAI-with-snowflake)** | Automated multi-LLM evaluation, fine-tuning pipeline, and inference deployment for telecom support ticket responses. | 	Snowflake, Snowpark, S3, Snowflake Cortex AI |
+
 
 ---
 

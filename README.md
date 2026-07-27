@@ -2,10 +2,10 @@
 
 Welcome to my GitHub! I'm a passionate AI Engineer & Data Scientist with a diverse background in:
 
-🚀 Machine Learning & Artificial Intelligence.
-🎯 Data Analyst.  
-🔌 Embedded Software Developer  
-📊 Senior System Engineer  
+🚀 Machine Learning & Artificial Intelligence. <br>
+🎯 Data Analyst.  <br>
+🔌 Embedded Software Developer  <br>
+📊 Senior System Engineer  <br>
 
 
 

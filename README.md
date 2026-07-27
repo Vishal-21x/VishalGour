@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a passionate AI Engineer & Data Scientist with a diver
 
 * 🎓 Master's in **Data Science (ML/AI Major)** from University of **Erlangen-Nuremberg, Germany**
 * 💼 **3+ years** experience in **Data Engineering & AI Development**
-* 🏭 [Specialization/Industry Focus]
+* 🏭 Specialization - **Machine Learning and AI**
 * 🤖 Passionate about **LLMs, RAG, NLP, and AI-powered automation**
 * 📈 Experienced with  **MLOps, LLMOps, Software development, System Administration**.
 
@@ -25,11 +25,8 @@ Welcome to my GitHub! I'm a passionate AI Engineer & Data Scientist with a diver
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Project Name 1](link)** | Brief description of what this project does | Python, TensorFlow |
+| **[LLM Fine-Tuning for Customer Support Automation](https://github.com/Vishal-21x/GenerativeAI-with-snowflake)** | Automated multi-LLM evaluation, fine-tuning pipeline, and inference deployment for telecom support ticket responses. |
 | **[Project Name 2](link)** | Brief description of what this project does | JavaScript, React |
-| **[Project Name 3](link)** | Brief description of what this project does | Python, FastAPI |
-| **[Project Name 4](link)** | Brief description of what this project does | Python, LangChain |
-| **[Project Name 5](link)** | Brief description of what this project does | TypeScript, Vue |
 
 ---
 

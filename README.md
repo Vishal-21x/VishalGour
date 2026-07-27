@@ -7,6 +7,8 @@ Welcome to my GitHub! I'm a passionate AI Engineer & Data Scientist with a diver
 🔌 Embedded Software Developer  
 📊 Senior System Engineer  
 
+
+
 ---
 
 ## 👨‍💻 About Me

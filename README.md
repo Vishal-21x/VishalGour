@@ -30,9 +30,7 @@ Welcome to my GitHub! I'm a passionate AI Engineer & Data Scientist with a diver
 | **[SkyData - Real-Time Aviation Intelligence Pipeline](https://github.com/Vishal-21x/SkyData---Real-Time-Aviation-Intelligence-Pipeline/tree/main) | Production-grade data platform ingesting 14.4M+ monthly flight records from 180+ countries through medallion architecture with real-time Streamlit dashboard. | Apache Airflow, Snowflake, Streamlit, Python, Docker, PostgreSQL |
 | **[LLM Fine-Tuning for Customer Support Automation](https://github.com/Vishal-21x/GenerativeAI-with-snowflake)** | Automated multi-LLM evaluation, fine-tuning pipeline, and inference deployment for telecom support ticket responses. | 	Snowflake, Snowpark, S3, Snowflake Cortex AI |
 | **[Retrieval Augmented Generation (RAG) Application]((https://github.com/Vishal-21x/Snowflake-Conversational-AI-App/tree/main/City%20council%20community%20assistant)) | Hybrid search system combining semantic and keyword matching to ground LLMs in unstructured data for accurate, hallucination-free answers. | Snowflake, Cortex Search, Vector Embeddings, Cortex LLM |
-
 | **[Text-to-SQL Application](https://github.com/Vishal-21x/Snowflake-Conversational-AI-App/tree/main/Text-to-SQL%20Intelligent%20Context-Aware%20SQL%20Generation) | Natural language to SQL converter leveraging Cortex Analyst API with agentic workflow for accurate data retrieval and business intelligence. | Snowflake, Cortex Analyst API, LLMs, Streamlit |
-
 | **[Getting Started with Cortex Agents]((https://github.com/Vishal-21x/Snowflake-Cortex-Agent/tree/main)) | Sales conversation analyzer using Snowflake Cortex Agents to extract actionable insights and drive deal visibility. | Snowflake, Cortex Agents, Semantic Search, AI Analytics |
 
 
